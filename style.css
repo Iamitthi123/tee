@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 2rem;
+    
+        
+}
+.img1{
+    border: 5px solid white;
+    width: 100%;
+}
+.one{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif; 
+    text-align: center;
+}
+.box3 img{
+    width: 20%;
+    border: 5px solid white;
+    position: absolute;
+    left: 54.5%;
+    top: 1430px;
+    
+}
+.box1 > img{
+    width: 50%;
+    border: 5px solid white;
+    position: relative;
+    left: 25%;
+   
+}
+.box2 img{
+    width: 20%;
+    border: 5px solid white;
+    position:fixed;
+    top: 0px;    
+    right: 0;
+}
+.box4 img{
+    width: 20%;
+    border: 5px solid white;
+    position:fixed;
+    top: 0px;    
+   
+}
